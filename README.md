@@ -6,7 +6,7 @@
 
  ## Results
 
- ### PyBer Summary Dataframe:
+ ### PyBer Summary Dataframe
 
  ![pyber_summary_df](analysis/pyber_summary_df.png)
 
